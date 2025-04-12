@@ -10,13 +10,13 @@ These techniques help solve problems efficiently under tight time constraints, c
 
 | Concept / Problem                     | Language | Description                                |
 |--------------------------------------|----------|--------------------------------------------|
-| Prime Number Check                   | C++      | Basic method and optimized √N approach     |
-| Sieve of Eratosthenes                | C++      | Generate all primes up to N                |
-| GCD & LCM                            | Python   | Euclidean Algorithm & formula-based LCM    |
-| Modular Exponentiation               | Java     | Fast power under modulo                    |
-| Modular Inverse                      | C++      | Fermat’s Little Theorem-based approach     |
-| Prime Factorization (O(√N), O(logN)) | C++      | Optimized prime factor extraction          |
-| Divisors of a Number                 | Python   | Count and list divisors of a number        |
+| Prime Number Check                   | C++/java/python      | Basic method and optimized √N approach     |
+| Sieve of Eratosthenes                | C++/java/python      | Generate all primes up to N                |
+| GCD & LCM                            | C++/java/python      | Euclidean Algorithm & formula-based LCM    |
+| Modular Exponentiation               | C++/java/python      | Fast power under modulo                    |
+| Modular Inverse                      | C++/java/python      | Fermat’s Little Theorem-based approach     |
+| Prime Factorization (O(√N), O(logN)) | C++/java/python      | Optimized prime factor extraction          |
+| Divisors of a Number                 | C++/java/python      | Count and list divisors of a number        |
 
 ---
 
@@ -24,12 +24,12 @@ These techniques help solve problems efficiently under tight time constraints, c
 
 | Concept / Trick                      | Language | Use Case                                   |
 |-------------------------------------|----------|---------------------------------------------|
-| Fast I/O                            | C++      | To reduce input-output time in contests     |
-| Bit Manipulation Basics             | C++      | Working with bits for optimization          |
-| Prefix Sum & Difference Arrays      | Java     | For range queries and quick updates         |
-| Sliding Window Technique            | Python   | For fixed/variable length subarray problems |
-| Two Pointer Technique               | C++      | Efficient pair/subarray handling            |
-| Time & Space Complexity Cheatsheet  | Text     | Quick reference for algorithm planning      |
+| Fast I/O                            | C++/java/python      | To reduce input-output time in contests     |
+| Bit Manipulation Basics             | C++/java/python      | Working with bits for optimization          |
+| Prefix Sum & Difference Arrays      | C++/java/python      | For range queries and quick updates         |
+| Sliding Window Technique            | C++/java/python      | For fixed/variable length subarray problems |
+| Two Pointer Technique               | C++/java/python      | Efficient pair/subarray handling            |
+| Time & Space Complexity Cheatsheet  | C++/java/python      | Quick reference for algorithm planning      |
 
 ---
 
