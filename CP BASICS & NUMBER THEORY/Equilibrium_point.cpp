@@ -22,7 +22,11 @@
 // Explanation: The sum of the numbers before index 2 is: 1 + -1 = 0
 // The sum of the numbers after index 2 is: 0
 
-//NAIVE SOLUTION
+
+
+// ===============================================
+// 🔹 Brute Force Approach 
+// ===============================================
 
 #include <iostream>
 using namespace std;
@@ -66,7 +70,10 @@ int main() {
 }
 
 
-//USING PREFIX SUM
+// ===============================================
+// 🔹 Optimal Approach - Prefix Sum Technique
+// ===============================================
+
 
 #include <iostream>
 using namespace std;
